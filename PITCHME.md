@@ -8,7 +8,9 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 - Go         |
 - vache      |
 
+---?image=00illustrations/brain.png
 
+---
 ---?video=00illustrations/AI.mp4
 
 
