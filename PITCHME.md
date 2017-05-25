@@ -10,7 +10,7 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/brain.png
 
-- communauté scientifique en ébulition |
+- communauté scientifique en ébulition
 - la question n'est pas...			   |
 	- "est-ce que c'est possible?"     |
 - mais...					           |
@@ -21,7 +21,7 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/rain.png
 
-- Devons nous être aussi péssimistes qu'eux? |
+- Devons nous être aussi péssimistes qu'eux?
 - Alternatives possibles					 |
 	- il n'y en a pas					     |
 - Que faire ?								 |
