@@ -20,13 +20,12 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - Ça fait quoi d'être <span style="color:red">**là**</span> ?
 - Ça ressemble à un endroit assez intense |
 - Mais en réalité non |
-- Sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps
+- Sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps |
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
 
 - Voilà donc ce que ça fait d'être <span style="color:red">**là**</span>
 - Ce qui doit probablement être assez normal niveau sensation |
-
 
 ---?image=00illustrations/lada.png
 
