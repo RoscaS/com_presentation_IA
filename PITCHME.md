@@ -33,7 +33,6 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 2. Transition
 
-
 ---?image=00illustrations/brain.png
 
 - <span style="color:white">**communauté scientifique en ébulition**</span>
