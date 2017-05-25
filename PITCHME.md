@@ -25,11 +25,11 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/brain.png
 
-- communauté scientifique en ébulition
-- la question n'est pas...			   |
-	- "est-ce que c'est possible?"     |
-- mais...					           |
-	- "quand-est-ce que ça va arriver?"|
+- <span style="color:white">communauté scientifique en ébulition</span>
+- <span style="color:white">la question n'est pas...</span>			     |
+	- <span style="color:white">"est-ce que c'est possible?"</span>      |
+- <span style="color:white">mais...</span>					             |
+	- <span style="color:white">"quand-est-ce que ça va arriver?"</span> |
 
 ---?video=00illustrations/AI.mp4
 
@@ -37,10 +37,10 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/rain.png
 
-- Devons nous être aussi péssimistes qu'eux?
-- Alternatives possibles					 |
-	- il n'y en a pas					     |
-- Que faire ?								 |
+- <span style="color:white">Devons nous être aussi péssimistes qu'eux?</span>
+- <span style="color:white">Alternatives possibles</span>			 |
+	- <span style="color:white">il n'y en a pas</span>			     |
+- <span style="color:white">Que faire ?</span>						 |
 
 ---
 <!--exemple tableau progressif-->
