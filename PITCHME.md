@@ -2,17 +2,15 @@
 
 Lors de chaque parcours, l'élément actuelement pointé par la variable d'itération `j`, si il est plus petit que l'élément à sa gauche `j-1` est échangé avec ce dernier.
 
-- Java		 |
+- poule		 |
 - JavaScript |
 - Kotlin     |
 - Go         |
-- Scala      |
+- vache      |
 
 
 ---?video=http://www.youtube.com/watch?v=5J5bDQHQR1g&t=1m28s
 
-<!--https://www.youtube.com/v/5J5bDQHQR1g?version=3&start=88&end=116&autoplay=1-->
-test
 
 ---
 
