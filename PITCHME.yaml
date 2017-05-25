@@ -1,4 +1,4 @@
 theme : black
 slide-number: true
 footnote : "AI: get out of the cave"
-vertical-center : false
+vertical-center : true

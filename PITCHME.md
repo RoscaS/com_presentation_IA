@@ -18,7 +18,7 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?video=00illustrations/AI.mp4
 
-<!-- .slide: data-autoslide="23000" -->
+<!-- .slide: data-autoslide="24500" -->
 
 ---?image=00illustrations/rain.png
 
