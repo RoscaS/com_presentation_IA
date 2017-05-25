@@ -5,6 +5,19 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
  Nick Bostrom
 
+---
+
+## 1. Loi du retour accéléré  
+
+_the Law of Accelerating Returns_
+
+Énoncé en 2001 par Ray Kurzweil, futurologue historiquement controversé.  
+
+- il n'est plus controversé car il n'a jamais eu tort |
+- il a tellement eu raison dans sa vie que maintenant ...|
+- il travaille chez Google ! (Google a toujours raison) |
+
+
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
 - Ça fait quoi d'être <span style="color:red">**là**</span> ?
@@ -19,24 +32,25 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - Ce qui doit probablement être... |
 - ... assez normal comme sensation |
 
+
 ---
 
 ## 1. **Le futur lointain arrive bientôt**
 
-poule poule2
 
 ---?image=00illustrations/lada.png
 
 
----?video=00illustrations/test.mp4
+---?video=00illustrations/1750.mp4
 
-- test 1 |
-- un second test |
-- et meme un dernier |
+- Cette personne n'est pas surprise |
+- Elle n'est pas choquée non plus |
+  
+- Elle est sur le point de mourir d'un choque émotionnel |
 
-Note:
-Imaginez prendre une machine a remonter le temps, y fourrer un gars de 1750 et le ramener en 2017
 ---
+
+
 
 ## 2. Transition
 
