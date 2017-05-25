@@ -25,11 +25,11 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/brain.png
 
-- <span style="color:white">communauté scientifique en ébulition</span>
-- <span style="color:white">la question n'est pas...</span>			     |
-	- <span style="color:white">"est-ce que c'est possible?"</span>      |
-- <span style="color:white">mais...</span>					             |
-	- <span style="color:white">"quand-est-ce que ça va arriver?"</span> |
+<span style="color:white"> - communauté scientifique en ébulition</span>
+<span style="color:white"> - la question n'est pas...</span>	   |
+<span style="color:white">	- "est-ce que c'est possible?"</span>  |
+<span style="color:white"> - mais...</span>					             |
+<span style="color:white">	- "quand-est-ce que ça va arriver?"</span> |
 
 ---?video=00illustrations/AI.mp4
 
