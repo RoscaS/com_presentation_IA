@@ -32,7 +32,6 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 - <span style="color:white">"quand-est-ce que ça va arriver?"</span> |
 
 ---?video=00illustrations/AI.mp4
-
 <!-- .slide: data-autoslide="24500" -->
 
 ---?image=00illustrations/rain.png
