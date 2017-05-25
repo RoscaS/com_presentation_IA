@@ -1,6 +1,10 @@
 ## 1 Tri-Bulle
 
+- Tous les parcours commencent à la fin du tableau `n-1`
+- Lors de chaque parcours, l'élément pointé par la variable d'itération |
+- est échangé avec ce dernier |
 
+---
 
 <img src="/00illustrations/triBulle-flag.gif" height="500">
 
