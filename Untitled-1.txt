@@ -1,0 +1,43 @@
+
+1. The far future coming soon (the Law of Accelerating Returns)
+    - analogie "choque technologique"
+
+    a. When it comes to history, we think in straight lines
+    b. The trajectory of very recent history often tells a distorted story. 
+    c. Our own experience makes us stubborn old men about the future.
+
+
+2. The Road to Superintelligence
+
+    a. What is AI?
+        1) We associate AI with movies. 
+        2) AI is a broad topic. 
+        3) We use AI all the time in our daily lives, but we often don’t realize it’s AI.
+
+
+        4) AI Caliber 1: Artificial Narrow Intelligence (ANI)
+        5) AI Caliber 2: Artificial General Intelligence (AGI)
+        6) AI Caliber 3: Artificial Superintelligence (ASI)
+
+3. Where We Are Currently—A World Running on ANI
+    - exemples
+
+4. The Road From ANI to AGI
+
+    a. Why It’s So Hard
+    b. First Key to Creating AGI: Increasing Computational Power
+    c. Second Key to Creating AGI: Making It Smart
+        1) Plagiarize the brain.
+        2) Try to make evolution do what it did before but for us this time.
+        3) Make this whole thing the computer’s problem, not ours.
+
+    d. All of This Could Happen Soon
+
+5. The Road From AGI to ASI
+
+    a. Hardware
+    b. Software
+
+6. An intelligence Explosion
+
+

@@ -1,4 +1,4 @@
-## IA
+# IA
 ---
 
 _"We are on the edge of change comparable to the rise of human life on Earth"_  
@@ -21,7 +21,11 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 ---
 
-1. **Le futur lointain arrive bientôt**
+## 1. **Le futur lointain arrive bientôt**
+
+---
+
+![](\00illustrations\lada.png)
 
 ---?video=00illustrations/test.mp4
 
@@ -29,9 +33,11 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - un second test |
 - et meme un dernier |
 
+Note:
+Imaginez prendre une machine a remonter le temps, y fourrer un gars de 1750 et le ramener en 2017
 ---
 
-2. Transition
+## 2. Transition
 
 ---?image=00illustrations/brain.png
 
