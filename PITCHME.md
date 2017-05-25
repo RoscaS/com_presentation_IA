@@ -4,6 +4,8 @@
 
 Le rôle de la couche transport est de rendre possible la **communication logique** entre applications. En anglais, on parle de logical end-to-end communication.
 
++++
+
 > Communication logique: Communication distant dans laquelle les hôtes communicants ne sont pas forcément reliés physiquement.
 > * Couche réseau (3): communication logique entre les **hôtes** 
 > * Couche transport (4): communication logique entre les **processus d'applications** 
@@ -11,6 +13,8 @@ Le rôle de la couche transport est de rendre possible la **communication logiqu
 ---
 
 La communication logique qu'établit la couche transport se fait entre les applications impliquées dans la communication. Lorsque deux hôtes A et B communiquent, c'est par le biais d'une application. Si l'application utilisée par l'hôte A est un client de messagerie, cela veut dire que l'hôte B utilisera également un client de messagerie pour lire le message. Donc il s'agit d'une même application dans la transmission et la réception. Voilà pourquoi on parle de end-to-end application communication: La communication entre les couches se fait de façon parallèle.
+
++++
 
 ![](https://user.oc-static.com/files/287001_288000/287530.png)
 
