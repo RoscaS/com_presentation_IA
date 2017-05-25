@@ -1,6 +1,8 @@
 ## 1 Tri-Bulle
 
-![](/00illustrations/triBulle-flag.gif)
+
+
+<img src="/00illustrations/triBulle-flag.gif" align="" height="350" float="right">
 
 +++
 
@@ -12,7 +14,7 @@
 
 +++
 
-[<a href=""><img src="/00illustrations/Echanger.png" align="" height="150" float="right"></a>]()
+<img src="/00illustrations/Echanger.png" align="" height="150" float="right">
 
 +++
 
@@ -37,7 +39,7 @@ void echange(int *t, int idx)
 
 +++
 
-[<a href=""><img src="/00illustrations/Tri_Bulle.png" align="" height="250" float="right"></a>]()
+<img src="/00illustrations/Tri_Bulle.png" align="" height="250" float="right">
 
 +++
 
