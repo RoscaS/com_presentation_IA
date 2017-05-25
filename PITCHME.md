@@ -2,9 +2,9 @@
 
 
 
-<img src="/00illustrations/triBulle-flag.gif" align="" height="350" float="right">
+<!--<img src="/00illustrations/triBulle-flag.gif" align="" height="350" float="right">-->
 
-+++
+---?image=00illustrations/triBulle-flag.gif
 
 ## Simple
 
