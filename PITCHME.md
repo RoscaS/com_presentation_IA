@@ -7,35 +7,27 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 ---
 
-## 1. Loi du retour accéléré  
+## 1. **Le futur lointain arrive bientôt**: Loi du retour accéléré  
 
-_the Law of Accelerating Returns_
+_the Law of Accelerating Returns_  
 
 Énoncé en 2001 par Ray Kurzweil, futurologue historiquement controversé.  
 
-- il n'est plus controversé car il n'a jamais eu tort |
+- céclèbre car finalement, il n'a jamais eu tort
 - il a tellement eu raison dans sa vie que maintenant ...|
-- il travaille chez Google ! (Google a toujours raison) |
-
+- il travaille chez Google (son patron est fan de futur)
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
 - Ça fait quoi d'être <span style="color:red">**là**</span> ?
 - Ça ressemble à un endroit assez intense |
-- En réalité non |
-- Sur une ligne du temps on ne voit pas... |
-- ... ce qu'il y a droite |
+- Mais en réalité non |
+- Sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
 
 - Voilà donc ce que ça fait d'être <span style="color:red">**là**</span>
-- Ce qui doit probablement être... |
-- ... assez normal comme sensation |
-
-
----
-
-## 1. **Le futur lointain arrive bientôt**
+- Ce qui doit probablement être assez normal niveau sensation |
 
 
 ---?image=00illustrations/lada.png
@@ -47,6 +39,8 @@ _the Law of Accelerating Returns_
 - Elle n'est pas choquée non plus |
   
 - Elle est sur le point de mourir d'un choque émotionnel |
+
+---
 
 ---
 
