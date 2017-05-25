@@ -1,4 +1,4 @@
-## 1 Tri-Bulle
+## IA
 
 Lors de chaque parcours, l'élément actuelement pointé par la variable d'itération `j`, si il est plus petit que l'élément à sa gauche `j-1` est échangé avec ce dernier.
 
