@@ -12,7 +12,7 @@
 
 +++
 
-[<a href=""><img src="00illustrations/Echanger.png" align="" height="150" float="right"></a>]()
+[<a href=""><img src="/00illustrations/Echanger.png" align="" height="150" float="right"></a>]()
 
 +++
 
@@ -37,7 +37,7 @@ void echange(int *t, int idx)
 
 +++
 
-[<a href=""><img src="00illustrations/Tri_Bulle.png" align="" height="250" float="right"></a>]()
+[<a href=""><img src="/00illustrations/Tri_Bulle.png" align="" height="250" float="right"></a>]()
 
 +++
 
@@ -100,7 +100,7 @@ Le tableau est donc suceptible d'être trié avant les (N-1) parcours. Il serait
 
 +++
 
-[<a href=""><img src="00illustrations/triBulle_Flag.png" align="" height="400" float="right"></a>](00illustrations/triBulle_Flag.png)
+[<a href=""><img src="/00illustrations/triBulle_Flag.png" align="" height="400" float="right"></a>](00illustrations/triBulle_Flag.png)
 
 +++
 
@@ -206,7 +206,7 @@ consécutifs du tableau est alterné.
 
 +++
 
-[<a href=""><img src="00illustrations/triShaker.png" align="" height="600" float="right"></a>]()
+[<a href=""><img src="/00illustrations/triShaker.png" align="" height="600" float="right"></a>]()
 
 +++
 
@@ -270,7 +270,7 @@ Toutes les améliorations n'ont pas modifié le nombre d'échanges à faire (_lo
 
 ## 3. Tri par extraction (Selection Sort)
 
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/triExtract.gif" align="" height="600" float="right"></a>]()
+[<a href="https://visualgo.net/en/sorting"><img src="/00illustrations/triExtract.gif" align="" height="600" float="right"></a>]()
 
 A chaque tour, l'algorithme trouve la valeur la plus petite et la place à sa position définitive.
 
@@ -329,7 +329,7 @@ On peut donc diviser ce problème en 3 parties distinctes:
 
 +++
 
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/Echanger.png" align="" height="150" float="right"></a>]()
+[<a href="https://visualgo.net/en/sorting"><img src="/00illustrations/Echanger.png" align="" height="150" float="right"></a>]()
 
 ```c++
 void echanger(int *t, int a, int b)
@@ -342,7 +342,7 @@ void echanger(int *t, int a, int b)
 
 +++
 
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/placerMinimumAGauche.png" align="" height="250" float="right"></a>]()
+[<a href="https://visualgo.net/en/sorting"><img src="/00illustrations/placerMinimumAGauche.png" align="" height="250" float="right"></a>]()
 
 ```c++
 void placerMinGauche(int *t, int g, int d)
@@ -360,7 +360,7 @@ void placerMinGauche(int *t, int g, int d)
 ```
 +++
  
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/triExtraction.png" align="" height="150" float="right"></a>]()
+[<a href="https://visualgo.net/en/sorting"><img src="/00illustrations/triExtraction.png" align="" height="150" float="right"></a>]()
 
 ```c++
 void triExtract(int *t, int g, int d)
@@ -386,7 +386,7 @@ Le tri par extraction est aussi lent que le tri bulle dans le cas d'un tableau �
 
 ### Stabilité
 
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/triExtractStab.gif" align="" height="250" float="right"></a>]()
+[<a href="https://visualgo.net/en/sorting"><img src="/00illustrations/triExtractStab.gif" align="" height="250" float="right"></a>]()
 
 Le tableau suivant comporte deux clés identiques:
 
@@ -417,7 +417,7 @@ Cet exemple montre que le tri par extraction n'est **pas stable**.
 
 ## 4. Tri par insertion (Insert Sort)
 
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/triInsert.gif" align="" height="600" float="right"></a>]()
+[<a href="https://visualgo.net/en/sorting"><img src="/00illustrations/triInsert.gif" align="" height="600" float="right"></a>]()
 
 ```c++
 void insertion(int *t, int g, int idx)
