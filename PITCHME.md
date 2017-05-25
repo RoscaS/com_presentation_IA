@@ -6,7 +6,7 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 - JavaScript |
 - Kotlin     |
 - Go         |
-- vache      |
+- chevre     |
 
 ---?image=00illustrations/brain.png
 
