@@ -1,25 +1,26 @@
 ## IA
+---
 
----?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
-
-- grands challenges |
-- évolution exponentielle |
-- ça fait quel éffet d'en réalité se retrouver...|
+_We are on the edge of change comparable to the rise of human life on Earth._  
+ Nick Bostrom
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
-- ...ici
-- au bord de l'explosion de l'intéligence |
+- Ça fait quoi d'être <span style="color:red">**là**</span> ? |
+- Ça ressemble à un endroit assez intense quand même |
+- En réalité non |
+- Sur une ligne du temps on ne voit pas ce qu'il y a gauche |
+- Une petite correction s'impose |
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
+
+- Voilà ce que ça fait de se sentire <span style="color:red">**là**</span> |
+- Ce qui doit probablement être...
+- ... assez normal comme sensation
 
 ---
 
-Lors de chaque parcours, l'élément actuelement pointé par la variable d'itération `j`, si il est plus petit que l'élément à sa gauche `j-1` est échangé avec ce dernier.
-
-- poule		 |
-- JavaScript |
-- Kotlin     |
-- Go         |
-- chevre     |
+1. **Le futur lointain arrive bientôt**
 
 ---?image=00illustrations/brain.png
 
