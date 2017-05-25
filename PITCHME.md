@@ -1,6 +1,6 @@
 ## 1 Tri-Bulle
 
-[<a href="https://visualgo.net/en/sorting"><img src="00illustrations/triBulle-flag.gif" align="" height="600" float="right"></a>](http://google.com.au/)
+![](/00illustrations/triBulle-flag.gif)
 
 +++
 
