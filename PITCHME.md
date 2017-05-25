@@ -8,6 +8,10 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 - Go         |
 - Scala      |
 
+
+---?video=https://www.youtube.com/v/5J5bDQHQR1g?version=3&start=88&end=116&autoplay=1
+
+
 ---
 
 <table>
