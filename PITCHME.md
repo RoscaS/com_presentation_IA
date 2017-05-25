@@ -10,21 +10,21 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/brain.png
 
-- communauté scientifique en ébulition |
-- la question n'est pas...			   |
-- *  "est-ce que c'est possible?"      |
-- mais...					           |
-- *  "quand-est-ce que ça va arriver?" |
+- `communauté scientifique en ébulition` |
+- `la question n'est pas...`			   |
+	- `"est-ce que c'est possible?"`     |
+- `mais...`					           |
+	- `"quand-est-ce que ça va arriver?"`|
 
 ---?video=00illustrations/AI.mp4
 
 
 ---?image=00illustrations/rain.png
 
-- Devons nous être aussi péssimistes qu'eux? |
-- Alternatives possibles					 |
-- * il n'y en a pas							 |
-- Que faire ?								 |
+- `Devons nous être aussi péssimistes qu'eux?` |
+- `Alternatives possibles`					 |
+	- `il n'y en a pas`							 |
+- `Que faire ?`								 |
 
 ---
 
