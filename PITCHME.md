@@ -25,7 +25,7 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 ---
 
-![](\00illustrations\lada.png)
+<img src="\00illustrations\lada.png" height="500">
 
 ---?video=00illustrations/test.mp4
 
