@@ -10,7 +10,12 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 
 ---?image=00illustrations/brain.png
 
----
+- poule		 |
+- JavaScript |
+- Kotlin     |
+- Go         |
+- vache      |
+
 ---?video=00illustrations/AI.mp4
 
 
