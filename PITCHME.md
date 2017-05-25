@@ -1,12 +1,16 @@
 ## 1 Tri-Bulle
 
-- Tous les parcours commencent à la fin du tableau `n-1`
-- Lors de chaque parcours, l'élément pointé par la variable d'itération |
-- est échangé avec ce dernier |
+Lors de chaque parcours, l'élément actuelement pointé par la variable d'itération `j`, si il est plus petit que l'élément à sa gauche `j-1` est échangé avec ce dernier.
+
+- Java		 |
+- JavaScript |
+- Kotlin     |
+- Go         |
+- Scala      |
 
 ---
 
-<img src="/00illustrations/triBulle-flag.gif" height="500">
+<img src="/00illustrations/triBulle-flag.gif" height="700">
 
 ---
 
