@@ -1,5 +1,4 @@
 # IA
----
 
 _"We are on the edge of change comparable to the rise of human life on Earth"_  
 
@@ -7,15 +6,14 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 ---
 
-## 1. **Le futur lointain arrive bientôt**: Loi du retour accéléré  
-
-_the Law of Accelerating Returns_  
+## 1. Loi du retour accéléré: 
+**Le futur lointain arrive bientôt**
 
 Énoncé en 2001 par Ray Kurzweil, futurologue historiquement controversé.  
 
-- céclèbre car finalement, il n'a jamais eu tort
+- célèbre car finalement, il n'a jamais eu tort
 - il a tellement eu raison dans sa vie que maintenant ...|
-- il travaille chez Google (son patron est fan de futur)
+- il travaille chez Google (son patron est fan de futur) |
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
