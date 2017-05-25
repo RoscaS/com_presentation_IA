@@ -9,11 +9,7 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 - vache      |
 
 
----?video=https://www.youtube.com/watch?v=5J5bDQHQR1g
-
----
-
----?video=http://www.youtube.com/watch?v=5J5bDQHQR1g&t=1m28s
+---?video=00illustrations/AI.mp4
 
 
 ---
