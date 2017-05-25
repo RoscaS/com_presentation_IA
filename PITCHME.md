@@ -3,8 +3,7 @@
 
 _"We are on the edge of change comparable to the rise of human life on Earth"_  
 
-
- Nick Bostrommmm
+ Nick Bostrom
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
@@ -14,7 +13,7 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - Sur une ligne du temps on ne voit pas... |
 - ... ce qu'il y a droite |
 
-+++?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
 
 - Voilà donc ce que ça fait d'être <span style="color:red">**là**</span>
 - Ce qui doit probablement être... |
@@ -24,7 +23,7 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 1. **Le futur lointain arrive bientôt**
 
-+++?image=00illustrations/brain.png
+---?image=00illustrations/brain.png
 
 - <span style="color:white">**communauté scientifique en ébulition**</span>
 - <span style="color:white">**la question n'est pas...**</span>	     |
@@ -32,21 +31,21 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - <span style="color:white">**mais...**</span>			             |
 - <span style="color:white">*quand-est-ce que ça va arriver?*</span> |
 
-+++?video=00illustrations/AI.mp4
+---?video=00illustrations/AI.mp4
 <!-- .slide: data-autoslide="24500" -->
 
-+++?image=00illustrations/rain.png
+---?image=00illustrations/rain.png
 
 - <span style="color:white">Devons nous être aussi péssimistes qu'eux?</span>
 - <span style="color:white">Alternatives possibles</span>			 |
 - <span style="color:white">il n'y en a pas</span>			     |
 - <span style="color:white">Que faire ?</span>						 |
 
----?
+---
 
 **Être réaliste...**
 
-+++?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Projections.png
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Projections.png
 
 ---
 <!--exemple tableau progressif-->
