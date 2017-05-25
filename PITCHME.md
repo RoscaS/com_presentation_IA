@@ -9,7 +9,9 @@ Lors de chaque parcours, l'élément actuelement pointé par la variable d'itér
 - Scala      |
 
 
----?video=https://www.youtube.com/v/5J5bDQHQR1g?version=3&start=88&end=116&autoplay=1
+---?video=http://www.youtube.com/watch?v=5J5bDQHQR1g&t=1m28s
+
+<!--https://www.youtube.com/v/5J5bDQHQR1g?version=3&start=88&end=116&autoplay=1-->
 
 
 ---
