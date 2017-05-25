@@ -25,9 +25,9 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 ---?video=00illustrations/1750.mp4
 
-- test 1 |
-- un second test |
-- et meme un dernier |
+- <span style="color:white">test 1</span> |
+- <span style="color:white">	un second test</span> |
+- <span style="color:white">		et meme un dernier</span> |
 
 ---
 
