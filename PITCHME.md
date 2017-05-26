@@ -42,10 +42,11 @@ Raymond Kurzweil:
 <br>
 <br>
 <br>
+<br>
 
 
 
----?image=00illustrations/graph1.png
++++?image=00illustrations/graph1.png
 ####  Loi du retour accéléré
 
 - Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense...
