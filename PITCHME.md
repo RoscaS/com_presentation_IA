@@ -40,7 +40,7 @@ Raymond Kurzweil:
 <ul>
   <li class="fragment"> Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense!</li>
 </ul>
-<p>
+<p class="fragment">
   <br><br>_mais en réalité non, sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps_
 </p>
 
