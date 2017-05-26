@@ -28,21 +28,20 @@ _Le futur lointain arrive bientôt_
 
 ---
 
-Ray Kurzweil:
-  - professeur au MIT
-  - <span style="color:blue">futurologue</span>
-  - informaticien
-  - ingénieur
-  - auteur
-<ul class="fragment">
-   <li>
-    décrit comme une **machine cérébrale** par Forbes et comme un **génie** par Wall Stree Journal.
-   </li>
-   <li>
-    directeur de l’ingénierie chez Google depuis 2012
-  </li>
-</ul>
-<span style="color:blue">célèbre car ses prédictions sont toujours justes</span>
+Raymond Kurzweil:
+- professeur au MIT
+- <span style="color:red">futurologue</span>
+- informaticien
+- ingénieur
+- auteur
+
+<p class="fragment">
+    _Décrit comme une **machine cérébrale** par Forbes et comme un **génie** par Wall Stree Journal._
+</p>
+
+- directeur de l’ingénierie chez Google depuis 2012 |
+
+<span style="color:red">célèbre car ses prédictions sont toujours justes</span>
 
 ---
 
