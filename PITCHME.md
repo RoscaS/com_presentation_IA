@@ -14,8 +14,6 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_ <
 _Le futur lointain arrive bientôt_
 
 
-
-
 ---
 
 Raymond Kurzweil:
