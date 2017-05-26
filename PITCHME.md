@@ -13,8 +13,9 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 ## 1. Loi du retour accéléré: 
 
 <br>
-Énoncé en 2001 par **Ray Kurzweil**, futurologue historiquement controversé.  
-- célèbre car finalement, il n'a jamais eu tort <br><br> *il a tellement eu raison dans sa vie que maintenant* <br> *il travaille chez Google (son patron est fan de futur)* |
+Énoncé en 2001 par **Ray Kurzweil**, futurologue historiquement controversé.
+<br>  
+- célèbre car finalement, il n'a jamais eu tort<br><br>*il a tellement eu raison dans sa vie que maintenant*<br>*il travaille chez Google (son patron est fan de futur)* |
 
 
 
