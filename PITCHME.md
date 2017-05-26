@@ -9,7 +9,7 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_ <
 ## 1. Loi du retour accéléré:
 <br>
 Énoncé en 2001 par **Ray Kurzweil**
-![Image](./assets/md/assets/hqdefault.jpg)
+![](https://i.ytimg.com/vi/1uIzS1uCOcE/hqdefault.jpg)
 <br>
 _Le futur lointain arrive bientôt_
 
@@ -29,15 +29,13 @@ Raymond Kurzweil:
     _Décrit comme une **machine cérébrale** par Forbes et comme un **génie** par Wall Stree Journal._
 </p>
 
-- directeur de l’ingénierie chez Google depuis 2012  <!-- .element: class="fragment" -->
+- directeur de l’ingénierie chez Google depuis 2012 |
 
 <span style="color:red">célèbre car ses prédictions sont toujours justes</span>
 
 
 
----
-<!-- .slide: data-background-image="./assets/md/assets/Edge1.png" data-background-size="100% 100%" -->
-
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 ####  Loi du retour accéléré
 <br>
 <br>
@@ -48,9 +46,7 @@ Raymond Kurzweil:
 
 
 
----
-<!-- .slide: data-background-image="./assets/md/assets/graph1.png" data-background-size="100% 100%" -->
-
+---?image=00illustrations/graph1.png
 ####  Loi du retour accéléré
 
 - Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense non?
@@ -63,9 +59,7 @@ Raymond Kurzweil:
 
 
 
----
-<!-- .slide: data-background-image="./assets/md/assets/Edge.jpg" data-background-size="100% 100%" -->
-
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
 
 - Voilà donc ce que ça fait d'être <span style="color:red">là.</span><br><br>_Pas grand chose en somme..._
 
@@ -73,11 +67,7 @@ Raymond Kurzweil:
 
 
 
----
-
-#### Video Slide Disabled
-#### [ GitPitch Offline ]
-
+---?video=00illustrations/1750.mp4
 <br>
 <br>
 <br>
@@ -94,27 +84,19 @@ Ce choque est l'unité de mesure du progrès technologique et il sert à calcule
 <br><br>
 - **DPU** (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
 
----
-<!-- .slide: data-background-image="./assets/md/assets/chart1.png" data-background-size="100% 100%" -->
-
----
-<!-- .slide: data-background-image="./assets/md/assets/chart2.png" data-background-size="100% 100%" -->
-
----
-<!-- .slide: data-background-image="./assets/md/assets/chart3.png" data-background-size="100% 100%" -->
+---?image=00illustrations/chart1.png
+---?image=00illustrations/chart2.png
+---?image=00illustrations/chart3.png
 
 
 
-
----
-<!-- .slide: data-background-image="./assets/md/assets/Edge1.png" data-background-size="100% 100%" -->
-
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 Le progrès est **de plus en plus grand** et se
 se produit **de plus en plus vite**.
 <br>
 Kurzweil et ses amis estiment: 
-- qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle  <!-- .element: class="fragment" -->
-- un autre 20e siècle équivalent de progrès sera fait d'ici 2021...  <!-- .element: class="fragment" -->
+- qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
+- un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
 <br>
 <br>
 <br>
@@ -123,9 +105,7 @@ Kurzweil et ses amis estiment:
 
 
 
----
-<!-- .slide: data-background-image="./assets/md/assets/Edge1.png" data-background-size="100% 100%" -->
-
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
 - ...que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.
 <br>
@@ -141,9 +121,7 @@ Kurzweil et ses amis estiment:
 
 
 
----
-<!-- .slide: data-background-image="./assets/md/assets/Edge1.png" data-background-size="100% 100%" -->
-
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne serez pas étonnés d'apprendre que Kurzweil et ses amis estiment que le DPU d'une personne vivant de nos jours est ...
 <br>
 <br>
@@ -165,9 +143,7 @@ Sans vouloir dramatiser ou faire peur, ils estiment aussi que le DPU des gens vi
 <b class="frgment">_un monde si différent du notre qu'on en mourerait_<br>C'est dans 33 ans...</b>
 
 
----
-<!-- .slide: data-background-image="./assets/md/assets/brain.png" data-background-size="100% 100%" -->
-
+---?image=00illustrations/brain.png
 
 <span style="color:white">De la science fiction vous dites? </span>
 
@@ -175,19 +151,13 @@ Sans vouloir dramatiser ou faire peur, ils estiment aussi que le DPU des gens vi
 
 
 
----
-
-#### Video Slide Disabled
-#### [ GitPitch Offline ]
+---?video=00illustrations/AI.mp4
 
 
 
 
 
-
----
-<!-- .slide: data-background-image="./assets/md/assets/rain.png" data-background-size="100% 100%" -->
-
+---?image=00illustrations/rain.png
 <h2><span style="color:white"> 2. Intéligences artificielles</span></h2>
 
 <span style="color:white">3 niveaux d'intéligence artificielle:</span>
@@ -207,18 +177,18 @@ Sans vouloir dramatiser ou faire peur, ils estiment aussi que le DPU des gens vi
 <b class="frgment"> Nick Bostrom définit ASI comme étant d'un intellect beaucoup plus évolué que le plus évolué des êtres humains dans pratiquement tous les domaines dont:
 <br>
 
-- sagèsse  <!-- .element: class="fragment" -->
-- créativité scientifique  <!-- .element: class="fragment" -->
-- compétences sociales  <!-- .element: class="fragment" -->
+- sagèsse |
+- créativité scientifique |
+- compétences sociales |
 
 
 ---
 
-- nous savons ce qu'est un QI de 180  <!-- .element: class="fragment" -->
-- mais qu'est-ce qu'un QI de 100 000 ?  <!-- .element: class="fragment" -->
-- qu'est-ce qu'un QI de 1 000 000 ?  <!-- .element: class="fragment" -->
+- nous savons ce qu'est un QI de 180 |
+- mais qu'est-ce qu'un QI de 100 000 ? |
+- qu'est-ce qu'un QI de 1 000 000 ? |
 
-- Quant on voit ces valeurs on comprend pourquoi à ce niveau de la discussion les mots "immortalité" et "extinction" font surface. <!-- .element: class="fragment" -->
+- Quant on voit ces valeurs on comprend pourquoi à ce niveau de la discussion les mots "immortalité" et "extinction" font surface.|
 
 ---
 
@@ -260,21 +230,19 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 1. faire des recherches sur l'IA
 2. s'auto reprogrammer
 
-- Ça fait peur dit comme ça, j'ai malheureusement pas le temps d'approfondir le sujet comme il se doit  <!-- .element: class="fragment" -->
+- Ça fait peur dit comme ça, j'ai malheureusement pas le temps d'approfondir le sujet comme il se doit |
 
----
+--- 
 
 ## 4. Tout ceci pourrait arriver très vite
 
-- toutes les plus grosses boites et gouvernements du monde sont sur le coup  <!-- .element: class="fragment" -->
+- toutes les plus grosses boites et gouvernements du monde sont sur le coup |
 
-- l'inovation materielle et logicielle défille plus rapidement que jamais (nous l'avons vu dans la première partie)  <!-- .element: class="fragment" -->
+- l'inovation materielle et logicielle défille plus rapidement que jamais (nous l'avons vu dans la première partie) |
 
-- les croissances exponentielles sont... intenses et ce qui semble être un rythme d'escargot peut rapidement devenir ingérable.  <!-- .element: class="fragment" -->
+- les croissances exponentielles sont... intenses et ce qui semble être un rythme d'escargot peut rapidement devenir ingérable. |
 
----
-<!-- .slide: data-background-image="./assets/md/assets/gif" data-background-size="100% 100%" -->
-
+---?image=http://waitbutwhy.com/wp-content/uploads/2015/01/gif
 
 ## 5. Certitude concernant l'ASI (niveau 3)
 
@@ -282,7 +250,7 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 - La première question est: Quand? les plus péssimistes répondent d'ici une centaine d'année. 
 
-- Accrochez vous: <!-- .element: class="fragment" -->
+- Accrochez vous:|
 
 - Ils sont une minorité à répondre une centaine d'année
 - Un sondage fait en 2015 (en référence de cette présentation) qui intérroge les 250 chercheurs les plus actifs sur le sujet révèle que la majorité voie l'ASI comme étant une réalité d'ici 2035. 
