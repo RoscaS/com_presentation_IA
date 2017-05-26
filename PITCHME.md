@@ -93,7 +93,23 @@ Ce choque est l'unité de mesure qui sert à calculer la **loi du retour accél�
 
 
 
----
+
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
+Le progrès est **de plus en plus grand** et se
+se produit **de plus en plus vite**.
+<br>
+- Kurzweil et ses amis estiment:
+  - qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
+  - un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
+<br>
+  - L'un dans l'autre Kurzweil et ses amis estiment que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 21e.|
+
+
+---?image=00illustrations/graph1.png
+Cette tendance suggère un "à droite de nous sur la ligne du temps" des plus palpitant.
+
+
 
 
 
