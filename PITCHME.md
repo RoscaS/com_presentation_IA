@@ -52,7 +52,7 @@ Raymond Kurzweil:
 - Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense non?
 
 <p class="fragment">
-  <br><br>_et bien, non, sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps_
+  <br><br>_et bien, non. <br>Sur une ligne du temps on ne voit<br>pas ce qu'il y a droite de notre temps._
 </p>
 
 
@@ -80,7 +80,7 @@ Raymond Kurzweil:
 
 ---
 
-Ce choque est l'unité de mesure du progrès technologique et il sert à calculer la <br>**loi du retour accéléré**.
+Ce choque est l'unité de mesure du progrès technologique et il sert à calculer la<br>**loi du retour accéléré**.
 <br>
 - **DPU** (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
 
