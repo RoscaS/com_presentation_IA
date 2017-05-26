@@ -15,7 +15,7 @@ Le futur lointain arrive bientôt
 ## 1. Loi du retour accéléré:
 <br>
 Énoncé en 2001 par **Ray Kurzweil**
-![](https://i.ytimg.com/vi/1uIzS1uCOcE/hqdefault.jpg)
+![](https://i.ytimg.com/vi/1uIzS1uCOcE/hqdefault.jpg)<br>
 _Le futur lointain arrive bientôt_
 
 
