@@ -4,6 +4,10 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
  Nick Bostrom
 
+
+
+
+
 ---
 
 ## 1. Loi du retour accéléré: 
@@ -16,24 +20,51 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - il a tellement eu raison dans sa vie que maintenant ...| 
 <!-- .slide: data-autoslide="1000" -->
 - il travaille chez Google (son patron est fan de futur) | 
-<!-- .slide: data-autoslide="100000" -->
+
+
+
+
+
+
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
+### progresTechnoligique(t)  
+  
 
 - Ça fait quoi d'être <span style="color:red">**là**</span> ?
+<!-- .slide: data-autoslide="5000" -->
 - Ça ressemble à un endroit assez intense |
+<!-- .slide: data-autoslide="1000" -->
 - Mais en réalité non |
+<!-- .slide: data-autoslide="1000" -->
 - Sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps |
 
----?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
 
+
+
+
+
+
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
+### progresTechnoligique(t)  
+  
+ 
 - Voilà donc ce que ça fait d'être <span style="color:red">**là**</span>
-- ... en ignorant ce qu'il y a à notre droite |
 - pas grand chose en somme, la routine ... |
 
----
+
+
+
+
+
 
 ---?image=00illustrations/lada.png
+
+
+
+
+
 
 
 ---?video=00illustrations/1750.mp4
@@ -44,6 +75,13 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - Elle est sur le point de mourir d'un choque émotionnel |
 
 ---
+
+
+
+
+
+
+
 
 ---
 
