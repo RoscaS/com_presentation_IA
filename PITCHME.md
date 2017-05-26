@@ -1,13 +1,7 @@
 # IA
 
-_"We are on the edge of change comparable to the rise of human life on Earth"_  
-
+_"We are on the edge of change comparable to the rise of human life on Earth"_ 
  Nick Bostrom
-
-
-the far future comming son
-
-Le futur lointain arrive bientôt
 
 
 ---
