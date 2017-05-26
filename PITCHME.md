@@ -119,11 +119,11 @@ Cette tendance suggère un "à droite de nous sur la ligne du temps" des plus pa
 
 ---
 
-Si Kurzweil and ses amis sont dans le juste, ça veut tout simplement dire que 2030 sera pour nous l'équivalent de ce qu'a été 2017 pour notre amis de 1750. <br> Pour être plus précis, ils estiment le PDU des gens vivant en 2015 en...
+Si Kurzweil and ses amis ont raison, ça veut dire que 2030 sera pour nous l'équivalent de ce qu'a été 2017 pour notre amis de 1750. <br> Pour être plus précis, ils estiment le PDU des gens vivant en 2015 en...
 
 - **2050** |
 
-_un monde si différent que nous, aujourd'hui, sommes incapable de concevoir_
+_un monde si différent du notre qu'on en mourerait_
 
 ---?image=00illustrations/brain.png
 
@@ -132,52 +132,68 @@ _un monde si différent que nous, aujourd'hui, sommes incapable de concevoir_
 <span style="color:white"> Pourtant ce sujet et plus précisément celui de l'intéligence artificielle est la principale préocupation des plus grands penseurs de notre temps. </span>
 
 
+
+
 ---?video=00illustrations/AI.mp4
 
-- test |
-- poule vache |
-- cochon cochon chevre |
 
----
 
 
 
 ---?image=00illustrations/rain.png
-<!-- .slide: data-autoslide="24500" -->
-**Être réaliste...**
+## 2. Intéligences artificielles
 
----?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Projections.png
+3 niveaux d'intéligence artificielle:
 
----
-<!--exemple tableau progressif-->
+1. ANI (Artificial Narrow Intelligence): une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours. Du contrôle des feu rouges ou des éguillages de train à notre poche dans les diverses applications de notre smart phone...
 
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
+2. AGI (Artificial General Intelligence): Fait référence à un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire. Nous n'y sommes pas encore (mais rappelez vous de notre graph et de ce qui se passe à notre droite).
+
+3. ASI (Artificial Super Intelligence): nous y voilà, le sujet de discussion de tous ces grands savants...
 
 ---
 
-<!--exemple integration image-->
+Nick Bostrom définit ASI comme étant d'un intellect beaucoup plus évolué que le plus évolué des êtres humains dans pratiquement tous les domaines.
 
-<img src="/00illustrations/triBulle-flag.gif" height="500">
+- sagèsse 
+- créativité scientifique
+- compétences sociales
+- ...
+
+<br>
+- nous savons ce qu'est un QI de 180 |
+- mais qu'est-ce qu'un QI de 100 000 ? |
+
+- qu'est-ce qu'un QI de 1 000 000 ? |
+
+Quant on voit ces valeurs on comprend pourquoi à ce niveau de la discussion les mots "immortalité" et "extinction" font surface.
 
 ---
+
+## 3. La route vers la super intelligence
+
+Nous sommes encore loin de l'AGI (niveau 2) mais nous avons un plan pour y arriver:
+
+Après avoir tenté de copier l'évolution grâce au _computer learning_ nous arrivons à un palier. C'est comme si nous tentions de deviner ce que sera la technologie du prochain palier DPU. Comme si un gars du moyen age tentait de comprendre l'électronique. Il a les capacités de le faire mais est limité par le savoir de son temps. 
+
+---
+
+*Make this whole thing the computer's problem, not ours.*
+<br>
+<br>
+L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
+
+1. faire des recherches sur l'IA
+2. s'auto reprogrammer
+
+- Ça fait peur dit comme ça, j'ai malheureusement pas le temps d'approfondir le sujet comme il se doit |
+
+## 4. Tout ceci pourrait arriver très vite
+
+- toutes les plus grosses boites et gouvernements du monde sont sur le coup |
+
+- l'inovation materielle et logicielle défille plus rapidement que jamais (nous l'avons vu dans la première partie) |
+
+- les croissances exponentielles sont... intenses et ce qui semble être un rythme d'escargot peut rapidement devenir ingérable.
+
+---?image=http://waitbutwhy.com/wp-content/uploads/2015/01/gif
