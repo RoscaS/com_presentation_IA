@@ -141,32 +141,33 @@ _un monde si différent du notre qu'on en mourerait_
 
 
 ---?image=00illustrations/rain.png
-## 2. Intéligences artificielles
+<h2><span style="color:white"> 2. Intéligences artificielles</span></h2>
 
-3 niveaux d'intéligence artificielle:
+<span style="color:white">3 niveaux d'intéligence artificielle:</span>
 
-1. ANI (Artificial Narrow Intelligence): une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours. Du contrôle des feu rouges ou des éguillages de train à notre poche dans les diverses applications de notre smart phone...
+<span style="color:white">1. ANI (Artificial Narrow Intelligence): une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours.</span>
 
-2. AGI (Artificial General Intelligence): Fait référence à un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire. Nous n'y sommes pas encore (mais rappelez vous de notre graph et de ce qui se passe à notre droite).
+<span style="color:white">2. AGI (Artificial General Intelligence): Fait référence à un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire. Nous n'y sommes pas encore (mais rappelez vous de notre graph et de ce qui se passe à notre droite).</span>
 
-3. ASI (Artificial Super Intelligence): nous y voilà, le sujet de discussion de tous ces grands savants...
+<span style="color:white">3. ASI (Artificial Super Intelligence): nous y voilà, le sujet de discussion de tous ces grands savants...</span>
 
 ---
 
 Nick Bostrom définit ASI comme étant d'un intellect beaucoup plus évolué que le plus évolué des êtres humains dans pratiquement tous les domaines.
-
+<br>
 - sagèsse 
 - créativité scientifique
 - compétences sociales
 - ...
 
-<br>
+
+---
+
 - nous savons ce qu'est un QI de 180 |
 - mais qu'est-ce qu'un QI de 100 000 ? |
-
 - qu'est-ce qu'un QI de 1 000 000 ? |
 
-Quant on voit ces valeurs on comprend pourquoi à ce niveau de la discussion les mots "immortalité" et "extinction" font surface.
+- Quant on voit ces valeurs on comprend pourquoi à ce niveau de la discussion les mots "immortalité" et "extinction" font surface.|
 
 ---
 
@@ -187,6 +188,8 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 2. s'auto reprogrammer
 
 - Ça fait peur dit comme ça, j'ai malheureusement pas le temps d'approfondir le sujet comme il se doit |
+
+--- 
 
 ## 4. Tout ceci pourrait arriver très vite
 
