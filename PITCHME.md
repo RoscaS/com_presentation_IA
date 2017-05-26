@@ -108,7 +108,7 @@ Kurzweil et ses amis estiment:
 - ...que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.
 <br>
 <br>
-<b class="fragment">Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez palpitant.<b>
+<b class="fragment">Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez palpitant.</b>
 <br>
 <br>
 <br>
@@ -120,7 +120,7 @@ Kurzweil et ses amis estiment:
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
-Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne serez pas étonnés d'apprendre que Kurzweil et ses amis estiment que le DPU d'une personne vivant de nos jours est ...
+Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne serez pas étonnés d'apprendre que Kurzweil et ses amis estiment que **le DPU d'une personne vivant de nos jours est** ...
 <br>
 <br>
 <b class="fragment">**2050**</b>
@@ -131,14 +131,6 @@ Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne sere
 
 
 
-
----
-
-Sans vouloir dramatiser ou faire peur, ils estiment aussi que le DPU des gens vivant en 2015 est en ...
-
-<b class="frgment">**2050**</b>
-
-<b class="frgment">_un monde si différent du notre qu'on en mourerait_<br>C'est dans 33 ans...</b>
 
 
 ---?image=00illustrations/brain.png
