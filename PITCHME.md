@@ -168,7 +168,7 @@ Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne sere
 
 3. ASI (Artificial Super Intelligence): nous y voilà, le sujet de discussion de tous ces grands savants...
 
-<b class="frgment"> Nick Bostrom définit ASI comme étant d'un intellect beaucoup plus évolué que le plus évolué des êtres humains dans pratiquement tous les domaines dont:
+<b class="frgment"> Nick Bostrom définit ASI comme étant d'un intellect beaucoup plus évolué que le plus évolué des êtres humains dans pratiquement tous les domaines dont:</b>
 <br>
 
 - sagèsse |
@@ -238,6 +238,8 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 ---?image=http://waitbutwhy.com/wp-content/uploads/2015/01/gif
 
+---
+
 ## 5. Certitude concernant l'ASI (niveau 3)
 
 - La question n'est pas est-ce qu'on va y arriver. À ce sujet ils sont tous unanimes, la réponse est oui.
@@ -247,8 +249,8 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 - Accrochez vous:|
 
 - Ils sont une minorité à répondre une centaine d'année
-- Un sondage fait en 2015 (en référence de cette présentation) qui intérroge les 250 chercheurs les plus actifs sur le sujet révèle que la majorité voie l'ASI comme étant une réalité d'ici 2035. 
-- Les plus optimistes pensent que c'est imminent voir déja d'actualité. Cette possibilté aussi folle qu'elle puisse parraitre n'est écarté par aucun des 250 chercheurs interrogé.
+- Un sondage fait en 2015 (en référence de cette présentation) qui intérroge les 450 chercheurs les plus actifs sur le sujet révèle que la majorité voie l'AGI comme étant une réalité d'ici 2035. 
+- Les plus optimistes pensent que c'est imminent voir déja d'actualité. Cette possibilté aussi folle qu'elle puisse parraitre n'est écarté par aucun des 450 chercheurs interrogé.
 
 ---
 
