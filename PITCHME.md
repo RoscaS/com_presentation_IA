@@ -90,7 +90,7 @@ Ce choque est l'unité de mesure du progrès technologique et il sert à calcule
 
 
 
----?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
+---?image=00illustrations/graph1.png
 Le progrès est **de plus en plus grand** et se
 se produit **de plus en plus vite**.
 <br>
@@ -98,23 +98,46 @@ se produit **de plus en plus vite**.
   - qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
   - un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
 <br>
-  - que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.|
 <br>
 <br>
 <br>
 
 
----?image=00illustrations/graph1.png
-Cette tendance suggère un "_à droite de nous sur la ligne du temps_" des plus palpitant.
+
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
+
+- et que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.
+<br>
+Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez palpitant.
+<br>Après avoir fait ce tour d'horizon de la loi du retour accéléré
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+
+
+
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
+Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne serez pas étonnés d'apprendre que Kurzweil et ses amis estiment que le DPU d'une personne vivant de nos jours est ...
+<br><br>
+<b class="frgment">**2050**</b>
+
+<br><br>
+<b class="frgment">Ça explique cela...</b>
+![](http://www.ulubelu.com/images/BottomRightArrowTrans.gif)
+<b class="frgment">Où cela exlique ceci</b>
+![](http://www.ulubelu.com/images/BottomRightArrowTrans.gif)
+
+
 
 ---
 
-Sans vouloir dramatiser ou faire peur, ils estiment aussi que le PDU des gens vivant en 2015 est en ...
+Sans vouloir dramatiser ou faire peur, ils estiment aussi que le DPU des gens vivant en 2015 est en ...
 
 <b class="frgment">**2050**</b>
 
