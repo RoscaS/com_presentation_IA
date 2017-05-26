@@ -15,8 +15,12 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 Énoncé en 2001 par **Ray Kurzweil**, futurologue historiquement controversé.  
 - célèbre car finalement, il n'a jamais eu tort | 
-
-
+<br>
+<br>
+<p class="fragment">
+  *il a tellement eu raison dans sa vie que maintenant* <br>
+  *il travaille chez Google (son patron est fan de futur)*
+</p>
 
 
 
@@ -37,34 +41,13 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg
-     
-- Voilà donc ce que ça fait d'être **là**
-- pas grand chose en somme, la routine ... |
+
+<ul>
+  <li>Voilà donc ce que ça fait d'être <span style="color:red">là</span></li>
+  <li class="fragment">pas grand chose en somme, la routine...</li>
+</ul>
 
 
-
-<ol>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
 
 
 
