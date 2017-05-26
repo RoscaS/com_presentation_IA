@@ -89,7 +89,7 @@ Ce choque est l'unité de mesure qui sert à calculer la **loi du retour accél�
 
 
 
----?img=00illustrations/chart1.png
+---?image=00illustrations/chart1.png
 
 
 
