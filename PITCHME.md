@@ -107,7 +107,7 @@ se produit **de plus en plus vite**.
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
-- et que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.
+- que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.
 <br>
 Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez palpitant.
 <br>Après avoir fait ce tour d'horizon de la loi du retour accéléré
@@ -115,9 +115,7 @@ Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez pal
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 
@@ -127,11 +125,6 @@ Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne sere
 <br><br>
 <b class="frgment">**2050**</b>
 
-<br><br>
-<b class="frgment">Ça explique cela...</b>
-![](http://www.ulubelu.com/images/BottomRightArrowTrans.gif)
-<b class="frgment">Où cela exlique ceci</b>
-![](http://www.ulubelu.com/images/BottomRightArrowTrans.gif)
 
 
 
