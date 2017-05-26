@@ -66,9 +66,8 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 <ul class="fragment">
   <li>**RIEN n'est familier**</li>
   <li>cette expérience n'est pas surprenante</li>
-  <li>pas choquante non plus<br>*ces mots ne sont pas suffisants*<br>*pour exprimer ce qu'il ressent</li>
+  <li>pas choquante non plus<br><br>*ces mots ne sont pas suffisants*<br>*pour exprimer ce qu'il ressent<br></li>
   <li>**Kurzweil** estime que le choque émotionnel serait<br>tellement intense que qu'il pourrait en mourir</li>
-  <li><br></li>
 </ul>
 
 
