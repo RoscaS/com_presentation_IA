@@ -1,3 +1,79 @@
+Qu’est-ce que l’intelligence artificielle ?
+
+L’Intelligence Artificielle regroupe les sciences et technologies
+qui permettent d’imiter, d’étendre et/ou d’augmenter
+l’intelligence humaine avec des machines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. The far future coming soon (the Law of Accelerating Returns)
     - analogie "choque technologique"
@@ -50,3 +126,6 @@
 
 the Law of Accelerating Returns
 http://www.atlantico.fr/decryptage/loi-retour-accelere-theorie-vertigineuse-futurologue-google-qui-jamais-eu-tort-2171512.html
+
+
+
