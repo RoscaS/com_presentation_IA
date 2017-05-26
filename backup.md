@@ -84,6 +84,11 @@ Ce choque est l'unité de mesure qui sert à calculer la **loi du retour accél�
 
 - DPU (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisament violent pour qu'il puisse en mourir.
 
+
+---?video=00illustrations/12000.mp4
+
+
+
 ---?image=00illustrations/chart1.png
 
 
@@ -114,19 +119,18 @@ Cette tendance suggère un "à droite de nous sur la ligne du temps" des plus pa
 
 ---
 
-Sans vouloir dramatiser ou faire peur, ils estiment aussi que le PDU des gens vivant en 2015 est en ...
+Si Kurzweil and ses amis ont raison, ça veut dire que 2030 sera pour nous l'équivalent de ce qu'a été 2017 pour notre amis de 1750. <br> Pour être plus précis, ils estiment le PDU des gens vivant en 2015 en...
 
 - **2050** |
 
 _un monde si différent du notre qu'on en mourerait_
-c'est dans 33 ans...
-
 
 ---?image=00illustrations/brain.png
 
 <span style="color:white">De la science fiction vous dites? </span>
 
 <span style="color:white"> Pourtant ce sujet et plus précisément celui de l'intéligence artificielle est la principale préocupation des plus grands penseurs de notre temps. </span>
+
 
 
 
@@ -171,26 +175,6 @@ c'est dans 33 ans...
 
 ---
 
-Clarification: 
-
-Ce sujet est incroyablement passionant et une quantité folle d'articles, de conférences et de podcasts circule sur le net.
-
-Pourtant ce n'est pas tellement couvert par les médias. C'est le même phénomène qui s'est produit avec internet vers la fin des années 90.
-<br>
-
----
-
-clarification, suite:
-
-Une légère curiosité du grand public mais avec des doutes sur l'utilité de la chose et même sur ce qu'est la chose jusqu'à ce qu'ils soient dedans jusqu'au coup à peine quelques années plus tard avec l'explosion de l'adsl. Ceux qui ont vécu cette transition s'en souviennent. Ils ne pourraient pas dire quand ça c'est passé exactement mais tout d'un coup, sallons de chat,mp3 et Counterstrike ont remplacé, aller boir un verre, cd et aller faire du vélo. Après quelques années plus googeler devient un verbe, si t'as pas Facebook tu pécho pas et si t'es toujours sur msn t'es trop hasbeen.
-
----
-
-Le manque de couverture médiatique est en partie dû au fait que les cherchers sont profondément absorbé par leurs recherches qui ont une marge de progression bien plus grande que celle physiciens qui stagnent en attendant que les vous leur construisiez un plus grand accélérateur de particules et qui ont beaucoup plus de temps pour discuter avec le public et vulgariser des concepts qui sont globalement les mêmes depuis les années 30.
-
----
-
-
 ## 3. La route vers la super intelligence
 
 Nous ne sommes pas encore à l'AGI (niveau 2) mais nous avons un plan pour y arriver:
@@ -223,22 +207,3 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 ---?image=http://waitbutwhy.com/wp-content/uploads/2015/01/gif
 
-## 5. Certitude concernant l'ASI (niveau 3)
-
-- La question n'est pas est-ce qu'on va y arriver. À ce sujet ils sont tous unanimes, la réponse est oui.
-
-- La première question est: Quand? les plus péssimistes répondent d'ici une centaine d'année. 
-
-- Accrochez vous:|
-
-- Ils sont une minorité à répondre une centaine d'année
-- Un sondage fait en 2015 (en référence de cette présentation) qui intérroge les 250 chercheurs les plus actifs sur le sujet révèle que la majorité voie l'ASI comme étant une réalité d'ici 2035. 
-- Les plus optimistes pensent que c'est imminent voir déja d'actualité. Cette possibilté aussi folle qu'elle puisse parraitre n'est écarté par aucun des 250 chercheurs interrogé.
-
----
-
-La seconde question est:
-
-- est-ce qu'elle est bienvéillante... 
-
----
