@@ -103,11 +103,17 @@ se produit **de plus en plus vite**.
   - qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
   - un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
 <br>
-  - L'un dans l'autre Kurzweil et ses amis estiment que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 21e.|
+  - que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 21e.|
+<br>
 
 
 ---?image=00illustrations/graph1.png
 Cette tendance suggère un "à droite de nous sur la ligne du temps" des plus palpitant.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
