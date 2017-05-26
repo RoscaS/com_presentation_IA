@@ -38,10 +38,7 @@ Raymond Kurzweil:
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
 <ul>
-  <li class="fragment"> Ça fait quoi d'être <span style="color:red">là?</span></li>
-  <li>
-    Ça ressemble à un endroit assez intense!
-  </li>
+  <li class="fragment"> Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense!</li>
   <li class="fragment">
     <br><br>*mais en réalité non, sur une ligne du temps*<br> *on ne voit pas ce qu'il y a droite de notre temps*
   </li>
