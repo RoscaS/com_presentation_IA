@@ -49,10 +49,10 @@ Raymond Kurzweil:
 ---?image=00illustrations/graph1.png
 ####  Loi du retour accéléré
 
-- Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense...
+- Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense non?
 
 <p class="fragment">
-  <br><br>_mais en réalité non, sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps_
+  <br><br>_eh bien non, sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps_
 </p>
 
 
@@ -82,11 +82,11 @@ Raymond Kurzweil:
 
 Ce choque est l'unité de mesure qui sert à calculer la **loi du retour accéléré**.
 
-- DPU (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisament violent pour qu'il puisse en mourir.
+- DPU (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
 
 ---?image=00illustrations/chart1.png
-
-
+---?image=00illustrations/chart2.png
+---?image=00illustrations/chart3.png
 
 
 
