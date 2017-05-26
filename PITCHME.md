@@ -81,8 +81,8 @@ Raymond Kurzweil:
 ---
 
 Ce choque est l'unité de mesure du progrès technologique et il sert à calculer la **loi du retour accéléré**.
-
-- DPU (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
+<br>
+- **DPU** (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
 
 ---?image=00illustrations/chart1.png
 ---?image=00illustrations/chart2.png
@@ -105,7 +105,7 @@ se produit **de plus en plus vite**.
 
 
 ---?image=00illustrations/graph1.png
-Cette tendance suggère un "à droite de nous sur la ligne du temps" des plus palpitant.
+Cette tendance suggère un "_à droite de nous sur la ligne du temps_" des plus palpitant.
 <br>
 <br>
 <br>
@@ -116,17 +116,16 @@ Cette tendance suggère un "à droite de nous sur la ligne du temps" des plus pa
 
 Sans vouloir dramatiser ou faire peur, ils estiment aussi que le PDU des gens vivant en 2015 est en ...
 
-- **2050** |
+<b class="frgment">**2050**</b>
 
-_un monde si différent du notre qu'on en mourerait_
-c'est dans 33 ans...
+<b class="frgment">_un monde si différent du notre qu'on en mourerait_<br>C'est dans 33 ans...</b>
 
 
 ---?image=00illustrations/brain.png
 
 <span style="color:white">De la science fiction vous dites? </span>
 
-<span style="color:white"> Pourtant ce sujet et plus précisément celui de l'intéligence artificielle est la principale préocupation des plus grands penseurs de notre temps. </span>
+<span style="color:white"> Pourtant ce sujet et plus précisément celui de l'intéligence artificielle est la principale préocupation des plus grands penseurs de notre temps (tous domaines confondus). </span>
 
 
 
