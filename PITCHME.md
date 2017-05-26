@@ -37,6 +37,11 @@ Raymond Kurzweil:
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 ####  Loi du retour accéléré
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
