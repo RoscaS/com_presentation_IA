@@ -46,7 +46,7 @@ Raymond Kurzweil:
 
 
 
-+++?image=00illustrations/graph1.png
+---?image=00illustrations/graph1.png
 ####  Loi du retour accéléré
 
 - Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense...
@@ -78,21 +78,18 @@ Raymond Kurzweil:
   <li>Kurzweil estime que le choque émotionnel serait tellement intense qu'il pourrait en mourir</li>
 </ul>
 
+---
 
+Ce choque est l'unité de mesure qui sert à calculer la **loi du retour accéléré**.
 
-
+- DPU (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisament violent pour qu'il puisse en mourir.
 
 
 ---?video=00illustrations/12000.mp4
 
 
 
-
----
-
-
-
-
+---?img=00illustrations/chart1.png
 
 
 
