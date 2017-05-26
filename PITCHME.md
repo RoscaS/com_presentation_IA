@@ -5,7 +5,9 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
  Nick Bostrom
 
 
+the far future comming son
 
+Le futur lointain arrive bientôt
 
 
 ---
@@ -17,10 +19,31 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 <br>
 
 ![](https://i.ytimg.com/vi/1uIzS1uCOcE/hqdefault.jpg)
+_Le futur lointain arrive bientôt_
+
+
+
+
+
+
+---
+
+Ray Kurzweil:
+  - professeur au MIT
+  - **futurologue**
+  - informaticien
+  - ingénieur
+  - auteur
+  
+  - décrit comme une machine cérébrale par Forbes 
+  - comme un génie par le Wall Stree Journal. 
+_directeur de l’ingénierie chez Google depuis 2012_  
+**célèbre car ses prédictions sont toujours justes**
+
+---
 
 <ul>
   <li class="fragment">
-    célèbre car finalement, il n'a jamais eu tort<br><br>*il a tellement eu raison dans sa vie qu'il est maintenant directeur de l'ingénierie chez Google*
   </li>
 </ul>
 
