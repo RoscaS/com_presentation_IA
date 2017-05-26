@@ -66,7 +66,7 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
   <li>**RIEN n'est familier**</li>
   <li>il n'est pas surpris</li>
   <li>pas choqué non plus...<br><br>*ces mots ne sont pas suffisants*<br>*pour exprimer ce qu'il ressent*<br></li>
-  <li>Kurzweil estime que le choque émotionnel serait tellement intense que qu'il pourrait en mourir</li>
+  <li>Kurzweil estime que le choque émotionnel serait tellement intense qu'il pourrait en mourir</li>
 </ul>
 
 
@@ -74,8 +74,7 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 
 
-
----
+---?video=00illustrations/1500.mp4
 
 
 
