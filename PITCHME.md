@@ -59,7 +59,10 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 
 ---?video=00illustrations/1750.mp4
-
+<br>
+<br>
+<br>
+<br>
 <ul class="fragment">
   <li>**Cette personne n'est pas surprise**</li>
   <li>**Elle n'est pas choquée non plus**</li>
