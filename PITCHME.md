@@ -94,9 +94,9 @@ Ce choque est l'unité de mesure du progrès technologique et il sert à calcule
 Le progrès est **de plus en plus grand** et se
 se produit **de plus en plus vite**.
 <br>
-- Kurzweil et ses amis estiment:
-  - qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
-  - un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
+Kurzweil et ses amis estiment: 
+- qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
+- un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
 <br>
 <br>
 <br>
