@@ -11,8 +11,8 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 ---
 
 ## 1. Loi du retour accéléré: 
-**Le futur lointain arrive bientôt**
 
+<br>
 Énoncé en 2001 par **Ray Kurzweil**, futurologue historiquement controversé.  
 - célèbre car finalement, il n'a jamais eu tort | 
 <br>
