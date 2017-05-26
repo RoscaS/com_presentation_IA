@@ -44,6 +44,11 @@ Raymond Kurzweil:
 
 
 
+
+
+
+
+
 ---?image=00illustrations/graph1.png
 ####  Loi du retour accéléré
 
