@@ -1,6 +1,6 @@
 # IA
 
-_"We are on the edge of change comparable to the rise of human life on Earth"_ <br>
+_"We are on the edge of change comparable to the rise of human life on Earth"_ <br><br>
  Nick Bostrom
 
 
@@ -9,7 +9,8 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_ <
 ## 1. Loi du retour accéléré:
 <br>
 Énoncé en 2001 par **Ray Kurzweil**
-![](https://i.ytimg.com/vi/1uIzS1uCOcE/hqdefault.jpg)<br>
+- ![](https://i.ytimg.com/vi/1uIzS1uCOcE/hqdefault.jpg) |
+<br>
 _Le futur lointain arrive bientôt_
 
 
