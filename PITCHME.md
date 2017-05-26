@@ -64,9 +64,9 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 <br>
 <br>
 <ul class="fragment">
-  <li>**Cette personne n'est pas surprise**</li>
-  <li>**Elle n'est pas choquée non plus**</li>
-  <li>**Elle est sur le point de mourir d'un<br>choque émotionnel trop puissant**</li>
+  <li>## **Cette personne n'est pas surprise**</li>
+  <li>## **Elle n'est pas choquée non plus**</li>
+  <li>## **Elle est sur le point de mourir d'un<br>choque émotionnel trop puissant**</li>
 </ul>
 
 
