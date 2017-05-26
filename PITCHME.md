@@ -3,7 +3,9 @@
 _"We are on the edge of change comparable to the rise of human life on Earth"_ <br><br>
  Nick Bostrom
 
-
+dernier point de ce lien !
+https://www.digitalcorner-wavestone.com/2015/06/lintelligence-artificielle-lavenir-de-lhumanite/
+parler de go ?
 ---
 
 ![](https://cdn-images-1.medium.com/max/1000/1*eZfoyapuY-WLbeZcX8sS8g.png)
@@ -93,12 +95,14 @@ Ce choque est l'unité de mesure du progrès technologique et il sert à calcule
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
-Le progrès est **de plus en plus grand** et se
-se produit **de plus en plus vite**.
+Pour faire simple, **plus le progrès avance, plus il accélère**. 
+En anglais cela s'apelle the **Law of accelerating returns.**(**LOAR**).
+Et en français **la loi du retour accéléré**.
 <br>
 Kurzweil et ses amis estiment: 
 - qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
-- un autre 20e siècle équivalent de progrès sera fait d'ici 2021... |
+<p class="fragment">Et prédisent:
+- un autre 20e siècle équivalent de progrès sera fait d'ici 2021... </p>
 <br>
 <br>
 <br>
