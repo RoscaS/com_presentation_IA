@@ -24,12 +24,12 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
-- Ça fait quoi d'être **là**? | 
-- Ça ressemble à un endroit assez intense! |
-- Mais en réalité non |
-- Sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps |
-
-
+<ul>
+  <li class="fragment">Ça fait quoi d'être <span style="color:red">là?</span></li>
+  <li class="fragment">Ça ressemble à un endroit assez intense!</li>
+  <li class="fragment">Mais en réalité non</li>
+  <li class="fragment">Sur une ligne du temps on ne voit pas ce qu'il y a droite de notre temps</li>
+</ul>
 
 
 
@@ -42,6 +42,29 @@ _"We are on the edge of change comparable to the rise of human life on Earth"_
 - pas grand chose en somme, la routine ... |
 
 
+
+<ol>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
 
 
 
