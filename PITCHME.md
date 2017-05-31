@@ -69,10 +69,8 @@ Raymond Kurzweil:
 
 
 ---?video=00illustrations/1750.mp4
-<br>
-<br> 
-                                                             
-- Vit un terrible moment =>              .|
+<br>                                                     
+<p class="fragment"> Vit un terrible moment =>              </p>
 
 ---
 
