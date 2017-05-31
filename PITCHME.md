@@ -48,12 +48,11 @@ Raymond Kurzweil:
 
 
 ---?image=00illustrations/graph1.png
-####  Loi du retour accéléré
 
 - Ça fait quoi d'être <span style="color:red">là?</span><br>Ça ressemble à un endroit assez intense non?
 
 <p class="fragment">
-  <br><br>_Eh bien, non. <br>Sur une ligne du temps on ne voit<br>pas ce qu'il y a droite de notre temps._
+  <br>_Eh bien, non. <br>Sur une ligne du temps on ne voit<br>pas ce qu'il y a droite de notre temps._
 </p>
 
 
