@@ -74,26 +74,33 @@ Raymond Kurzweil:
 
 ---
 
-Ce choque est l'unité de mesure du progrès technologique et il sert à calculer la<br>**loi du retour accéléré**.
+Ce **choque** est l'unité de mesure du progrès technologique et il sert à éstimer la<br>**loi du retour accéléré**.
 <br><br>
 - **DPU** (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
 
+
 ---?image=00illustrations/chart1.png
+
 ---?image=00illustrations/chart2.png
+
 ---?image=00illustrations/chart3.png
 
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
-Pour faire simple, **plus le progrès avance, plus il accélère**. 
-En anglais cela s'apelle the **Law of accelerating returns.**(**LOAR**).
-Et en français **la loi du retour accéléré**.
-<br>
-Kurzweil et ses amis estiment: 
-- qu'entre 2000 et 2014 l'humanité a progressé technologiquement autant qu'elle l'a fait pendant tout le 20e siècle |
-<p class="fragment">Et prédisent:
-- un autre 20e siècle équivalent de progrès sera fait d'ici 2021... </p>
-<br>
+
+
+
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
+**Loi du retour accéléré:**<br>
+_plus le progrès avance, plus il accélère_
+<br> <br>
+Estimations: 
+- Progrès entre 2000 et 2014 = Total du progrès du 20e siècle
+<p class="fragment">Et prédictions:
+- un autre 20e siècle équivalent de progrès sera fait d'ici 2021 </p>
+- le 21e siècle fera 1000 fois ce qui a été fait au 20e siècle
 <br>
 <br>
 <br>
@@ -103,7 +110,6 @@ Kurzweil et ses amis estiment:
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
 
-- ...que le 21e siècle fera l'équivalent de 1000 fois ce qui a été fait au 20e.
 <br>
 <br>
 <b class="fragment">Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez palpitant.</b>
