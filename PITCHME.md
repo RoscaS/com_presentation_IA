@@ -69,7 +69,7 @@ Raymond Kurzweil:
 
 
 ---?video=00illustrations/1750.mp4 
-<p class="fragment"> Vit un terrible moment -----------></p>
+**IWANNADIE**
 
 ---
 
