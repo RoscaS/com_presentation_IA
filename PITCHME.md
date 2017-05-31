@@ -122,7 +122,7 @@ Cette tendance suggère un<br>_"à droite de nous sur la ligne du temps"_<br>ass
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
-Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne serez pas étonnés d'apprendre que Kurzweil et ses amis estiment que **le DPU d'une personne vivant de nos jours est** ...
+DPU d'une personne vivant de nos jours...
 <br>
 <br>
 <b class="fragment">**2050**</b>
@@ -136,15 +136,15 @@ Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne sere
 
 
 ---?image=00illustrations/brain.png
-
+<!-- .slide: data-autoslide="3000" -->
 <span style="color:white">De la science fiction vous dites? </span>
 
-<span style="color:white"> Pourtant ce sujet et plus précisément celui de l'intéligence artificielle est la principale préocupation des plus grands penseurs de notre temps (tous domaines confondus). </span>
 
 
 
 
 ---?video=00illustrations/AI2.mp4
+<!-- .slide: data-autoslide="50000" -->
 
 
 
