@@ -156,7 +156,7 @@ Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne sere
 
 
 ---?image=00illustrations/rain.png
-<h2><span style="color:white"> 2. Intéligences artificielles</span></h2>
+<h2><span style="color:white"> 2. Intelligences artificielles</span></h2>
 
 <span style="color:white">3 niveaux d'intéligence artificielle:</span>
 
