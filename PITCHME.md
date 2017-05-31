@@ -72,7 +72,7 @@ Raymond Kurzweil:
 <br>
 <br> 
                                                              
-- Vit un terrible moment => |
+- Vit un terrible moment =>              .|
 
 ---
 
