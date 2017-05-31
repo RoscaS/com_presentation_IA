@@ -88,7 +88,27 @@ Ce **choque** est l'unité de mesure du progrès technologique et il sert à és
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
+**Loi du retour accéléré:**<br>
+_plus le progrès avance, plus il accélère_
+<br> 
+<br> 
+<br> 
+<br> 
+<br>
+<br>
+<br>
 
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
+**Loi du retour accéléré:**<br>
+_plus le progrès avance, plus il accélère_
+<br> 
+<br>
+- Estimations:
+- Progrès entre 2000 et 2014 = Total du progrès du 20e siècle
+<br>
+<br>
+<br>
 
 
 
@@ -97,14 +117,12 @@ Ce **choque** est l'unité de mesure du progrès technologique et il sert à és
 _plus le progrès avance, plus il accélère_
 <br> 
 <br>
-<p class="fragment">Estimations:
-- Progrès entre 2000 et 2014 = Total du progrès du 20e siècle</p> 
-<p class="fragment"> Prédictions:
+- Estimations:
+- Progrès entre 2000 et 2014 = Total du progrès du 20e siècle
+  Prédictions:
 - un autre 20e siècle équivalent de progrès sera fait d'ici 2021 
-- le 21e siècle fera 1000 fois ce qui a été fait au 20e siècle </p>
-<br>
-<br>
-<br>
+- le 21e siècle fera 1000 fois ce qui a été fait au 20e siècle
+
 
 
 
