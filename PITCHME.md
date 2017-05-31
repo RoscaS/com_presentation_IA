@@ -118,10 +118,11 @@ _plus le progrès avance, plus il accélère_
 <br> 
 <br>
 - Estimations:
-- Progrès entre 2000 et 2014 = Total du progrès du 20e siècle
+- 2000 -> 2014 = ∑ progrès 20e siècle  
+
   Prédictions:
-- un autre 20e siècle équivalent de progrès sera fait d'ici 2021 
-- le 21e siècle fera 1000 fois ce qui a été fait au 20e siècle
+- un autre 20e siècle équivalent<br>de progrès sera fait d'ici 2021 
+- le 21e siècle fera 1000 fois ce<br> qui a été fait au 20e siècle
 
 
 
