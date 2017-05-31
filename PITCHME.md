@@ -88,18 +88,18 @@ Ce **choque** est l'unité de mesure du progrès technologique et il sert à és
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png
-<p class="fragment">
 **Loi du retour accéléré:**<br>
-_plus le progrès avance, plus il accélère_ <br> 
+_plus le progrès avance, plus il accélère_
+<br> 
 <br>
-**Estimations:**<br>
-● 2000 -> 2014 = ∑ progrès 20e siècle</p>
+<p class="fragment">**Estimations:**<br>
+2000 -> 2014 = ∑ progrès 20e siècle</p>
 
 <p class="fragment">**Prédictions:**<br>
-● autre 20e siècle équivalent de progrès d'ici 2021<br>
-● ∑ progrès 21e siècle = 1000 x  20e siècle</p>
+autre 20e siècle équivalent de progrès d'ici 2021<br>
+∑ progrès 21e siècle = 1000 x  20e siècle</p>
 
-<br><br>
+<br><br><br>
 
 
 
