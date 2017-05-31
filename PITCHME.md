@@ -69,7 +69,8 @@ Raymond Kurzweil:
 
 
 ---?video=00illustrations/1750.mp4 
-**I don't want to live on this planet anymore**
+<br><br><br><br><br>
+<h1 class="fragment"> I don't want to live on this planet anymore </h1>
 
 ---
 
