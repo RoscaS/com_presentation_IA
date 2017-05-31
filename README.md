@@ -1,1 +1,1 @@
-[\00illustrations\bien.jpg](\00illustrations\bien.jpg)
+![/00illustrations/bien.jpg](/00illustrations/bien.jpg)
