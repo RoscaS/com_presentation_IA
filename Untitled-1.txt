@@ -1,3 +1,8 @@
+
+Tout ce qui va suivre n’est que le fruit de la réflexion des plus
+grands experts mondiaux.
+
+
 Qu’est-ce que l’intelligence artificielle ?
 
 L’Intelligence Artificielle regroupe les sciences et technologies
@@ -7,34 +12,28 @@ l’intelligence humaine avec des machines.
 
 
 
+Trois niveux d'intelligence artificielle
+
+
+Quotes:
+
+« Avant, il fallait le faire à la main, expliquer à l’outil
+comment transformer une image afin de la classifier. Avec le deep
+learning, la machine apprend à le faire elle-même. Et elle le
+fait beaucoup mieux que les ingénieurs, c’est presque humiliant
+». Yann LeCun
+
+Deep learning:
+https://medium.com/latelier-verrocchio/lintelligence-artificielle-et-l-avenir-de-notre-monde-partie-1-2-5904d164f4cf
 
 
 
 
 
 
+art
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://www.itesoft.com/wp-content/uploads/2016/05/google_ia.jpg
 
 
 

@@ -4,8 +4,13 @@ _Tout ce qui va suivre n’est que le fruit de la réflexion des plus
 grands experts mondiaux._
 <br><br>
  
+
+dernier point de ce lien !
+https://www.digitalcorner-wavestone.com/2015/06/lintelligence-artificielle-lavenir-de-lhumanite/
+parler de go ?
 ---
 
+![](https://cdn-images-1.medium.com/max/1000/1*eZfoyapuY-WLbeZcX8sS8g.png)
 
 ---
 
