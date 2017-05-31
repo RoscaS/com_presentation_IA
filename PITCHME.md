@@ -92,12 +92,14 @@ Ce **choque** est l'unité de mesure du progrès technologique et il sert à és
 _plus le progrès avance, plus il accélère_
 <br> 
 <br>
-<p class="fragment">**Estimations:**<br>
-2000 -> 2014 = ∑ progrès 20e siècle</p>
+<p class="fragment">
+**Estimations:**<br>
+2000 → 2014 = ∑ progrès 20e siècle<br>
 
-<p class="fragment">**Prédictions:**<br>
+**Prédictions:**<br>
 autre 20e siècle équivalent de progrès d'ici 2021<br>
-∑ progrès 21e siècle = 1000 x  20e siècle</p>
+∑ progrès 21e siècle = 1000 x  20e siècle
+</p>
 
 <br><br><br>
 
@@ -108,7 +110,7 @@ autre 20e siècle équivalent de progrès d'ici 2021<br>
 
 <br>
 <br>
-<b class="fragment">Cette tendance suggère un "_à droite de nous sur la ligne du temps_" assez palpitant.</b>
+Cette tendance suggère un<br>_"à droite de nous sur la ligne du temps"_<br>assez palpitant.
 <br>
 <br>
 <br>
