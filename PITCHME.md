@@ -149,9 +149,8 @@ Après avoir fait ce tour d'horizon de la loi du retour accéléré vous ne sere
 
 
 
----?video=00illustrations/AI.mp4
 
-
+---?video=00illustrations/AI2.mp4
 
 
 
