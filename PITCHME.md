@@ -32,7 +32,7 @@ Raymond Kurzweil:
 
 - directeur de l’ingénierie chez Google depuis 2012 |
 
-<span style="color:red">célèbre car ses prédictions sont toujours justes</span>
+<span style="color:red">_célèbre car ses prédictions sont toujours justes._</span>
 
 
 
@@ -70,14 +70,8 @@ Raymond Kurzweil:
 
 ---?video=00illustrations/1750.mp4
 <br>
-<br>
-<br>
-<ul class="fragment">
-  <li>**RIEN n'est familier**</li>
-  <li>il n'est pas surpris</li>
-  <li>pas choqué non plus...<br><br>*ces mots ne sont pas suffisants*<br>*pour exprimer ce qu'il ressent*<br></li>
-  <li>Kurzweil estime que le choque émotionnel serait tellement intense qu'il pourrait en mourir</li>
-</ul>
+<br> 
+- Vit un terrible moment => |
 
 ---
 
