@@ -69,7 +69,7 @@ Raymond Kurzweil:
 
 
 ---?video=00illustrations/1750.mp4 
-**IWANNADIE**
+**I don't want to live on this planet anymore**
 
 ---
 
