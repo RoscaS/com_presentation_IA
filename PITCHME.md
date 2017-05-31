@@ -5,7 +5,7 @@ grands experts mondiaux._
 <br><br>
  
 ---
-
+>« Avant, il fallait le faire à la main, expliquer à l’outil comment transformer une image afin de la classifier. Avec le deep learning, la machine apprend à le faire elle-même. Et elle le fait beaucoup mieux que les ingénieurs, c’est presque humiliant ». Yann LeCun
 
 ---
 
