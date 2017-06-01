@@ -6,9 +6,6 @@ grands experts mondiaux._
  
 ---
 
-
----
-
 ## 1. Loi du retour accéléré:
 <br>
 Énoncé en 2001 par **Ray Kurzweil**
@@ -185,8 +182,7 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 
 
---->?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2-1024x836.png
-
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2-1024x836.png
 
 
 
