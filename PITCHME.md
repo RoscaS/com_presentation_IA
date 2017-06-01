@@ -235,4 +235,12 @@ La seconde question est:
 ---
 
 J'en arrive donc à la fin de ma présention.
-Nous avons vu ce qu'est la loi du retour accéléré qui nous explique
+**Nous avons vu:** 
+
+- ce qu'est la loi du retour accéléré qui nous explique comment mesurer le progrès.
+
+- Les différentes IA
+
+- Ce qu'est réellement une IA
+
+- A quoi s'attendre
