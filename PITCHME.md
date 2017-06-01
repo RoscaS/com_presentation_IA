@@ -235,7 +235,8 @@ La seconde question est:
 ---
 
 
-**Qu'est-ce qu'on a vu aujourd'hui** 
+**Qu'est-ce qu'on a vu aujourd'hui?**  
+<br> 
 
 - ce qu'est la loi du retour accéléré qui nous explique comment mesurer le progrès.
 
