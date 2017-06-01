@@ -151,13 +151,13 @@ DPU d'une personne vivant de nos jours...
 
 
 ---
-<span style="color:white">**3 niveaux d'intelligence artificielle:**</span>
+**3 niveaux d'intelligence artificielle:**
 
-<span style="color:white">1. **ANI** (Artificial **Narrow** Intelligence): Une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours.</span>
+1. **ANI** (Artificial **Narrow** Intelligence): Une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours.
 
-<span style="color:white">2. **AGI** (Artificial **General** Intelligence): Un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire.</span>
+2. **AGI** (Artificial **General** Intelligence): Un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire.
 
-<span style="color:white">3. **ASI** (Artificial **Super** Intelligence): Le sujet de discussion de tous ces grands savants...</span>
+3. **ASI** (Artificial **Super** Intelligence): Le sujet de discussion de tous ces grands savants...
 
 
 ---
