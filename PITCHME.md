@@ -167,14 +167,15 @@ Le plan:
 <br>
 *Make this whole thing the computer's problem, not ours.*
 <br>
+<br>
 L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
-1. faire des recherches sur l'IA
-2. s'auto reprogrammer
+1. Faire des recherches sur l'IA
+2. S'auto reprogrammer
 
 --- 
 
-« Avant, il fallait le faire à la main, expliquer à l’outil comment transformer une image afin de la classifier. Avec le deep learning, la machine apprend à le faire elle-même. Et elle le fait beaucoup mieux que les ingénieurs, c’est presque humiliant ». <br> Terence Tao (plus haut QI actuellement en vie)
+« Avant, il fallait le faire à la main, expliquer à l’outil comment transformer une image afin de la classifier. Avec le deep learning, la machine apprend à le faire elle-même. Et elle le fait beaucoup mieux que les ingénieurs, c’est presque humiliant ». <br><br> Terence Tao (plus haut QI actuellement en vie)
 
 ---?image=https://cdn-images-1.medium.com/max/800/1*4M6wh5s4EyK4ceDnGiteXA.jpeg
 
@@ -184,7 +185,7 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 
 
---->image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2-1024x836.png
+--->?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2-1024x836.png
 
 
 
@@ -194,23 +195,20 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 ---
 
-
-
----
-
 ## 4. Questions, certitude, inquiétudes et conclusion
 
 - La question n'est pas est-ce qu'on va y arriver.<br> 
-À ce sujet, en 2013, la réponse était déja presque catégorique.
 
-- Quand ? |
+---
+
+- mais plutôt quand ? |
 
 <span class="fragment">
-jamais      : 2%
-après 2100  : 10%
-d’ici 2010  : 20%
-d’ici 2050  : 25%
-d’ici 2030  : 42%
+jamais      : 2%<br> 
+après 2100  : 10%<br> 
+d’ici 2010  : 20%<br> 
+d’ici 2050  : 25%<br> 
+d’ici 2030  : 42%<br> 
 </span>
 
 ---
@@ -223,5 +221,13 @@ La seconde question est:
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/staircase2.png
+
+On sait ce qu'est un QI de 150
+<br>
+<br>
+<br>
+<br>
+<br>
+Qu'est-ce qu'un QI de 10 000 ?
 
 ---
