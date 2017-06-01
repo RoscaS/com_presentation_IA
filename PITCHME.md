@@ -135,7 +135,7 @@ DPU d'une personne vivant de nos jours...
 
 
 ---?image=00illustrations/brain.png
-<!-- .slide: data-autoslide="3000" -->
+<!-- .slide: data-autoslide="5000" -->
 <span style="color:white">De la science fiction vous dites? </span>
 
 
@@ -143,74 +143,26 @@ DPU d'une personne vivant de nos jours...
 
 
 ---?video=00illustrations/AI2.mp4
-<!-- .slide: data-autoslide="50000" -->
 
 
 
 ---?image=00illustrations/rain.png
-<h2><span style="color:white"> 2. Intelligences artificielles</span></h2>
-
-<span style="color:white">3 niveaux d'intéligence artificielle:</span>
-
----
-
-1. ANI (Artificial Narrow Intelligence): une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours.
-
----
-
-2. AGI (Artificial General Intelligence): Fait référence à un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire. Nous n'y sommes pas encore (mais rappelez vous de notre graph et de ce qui se passe à notre droite).
-
----
-
-3. ASI (Artificial Super Intelligence): nous y voilà, le sujet de discussion de tous ces grands savants...
-
-<b class="frgment"> Nick Bostrom définit ASI comme étant d'un intellect beaucoup plus évolué que le plus évolué des êtres humains dans pratiquement tous les domaines dont:</b>
-<br>
-
-- sagèsse |
-- créativité scientifique |
-- compétences sociales |
+<h2><span style="color:white"> 2. Intelligence artificielle</span></h2>
 
 
 ---
+<span style="color:white">**3 niveaux d'intelligence artificielle:**</span>
 
-- nous savons ce qu'est un QI de 180 |
-- mais qu'est-ce qu'un QI de 100 000 ? |
-- qu'est-ce qu'un QI de 1 000 000 ? |
+<span style="color:white">1. **ANI** (Artificial **Narrow** Intelligence): Une IA spécialisée dans un domaine particulier. Omniprésente dans notre vie de tous les jours.</span>
 
-- Quant on voit ces valeurs on comprend pourquoi à ce niveau de la discussion les mots "immortalité" et "extinction" font surface.|
+<span style="color:white">2. **AGI** (Artificial **General** Intelligence): Un ordinateur qui est capable d'effectuer toutes les taches intellectuelles qu'un humain peut faire.</span>
 
----
+<span style="color:white">3. **ASI** (Artificial **Super** Intelligence): Le sujet de discussion de tous ces grands savants...</span>
 
-Clarification: 
-
-Ce sujet est incroyablement passionant et une quantité folle d'articles, de conférences et de podcasts circule sur le net.
-
-Pourtant ce n'est pas tellement couvert par les médias. C'est le même phénomène qui s'est produit avec internet vers la fin des années 90.
-<br>
 
 ---
-
-clarification, suite:
-
-Une légère curiosité du grand public mais avec des doutes sur l'utilité de la chose et même sur ce qu'est la chose jusqu'à ce qu'ils soient dedans jusqu'au coup à peine quelques années plus tard avec l'explosion de l'adsl. Ceux qui ont vécu cette transition s'en souviennent. Ils ne pourraient pas dire quand ça c'est passé exactement mais tout d'un coup, sallons de chat,mp3 et Counterstrike ont remplacé, aller boir un verre, cd et aller faire du vélo. Après quelques années plus googeler devient un verbe, si t'as pas Facebook tu pécho pas et si t'es toujours sur msn t'es trop hasbeen.
-
----
-
-Le manque de couverture médiatique est en partie dû au fait que les cherchers sont profondément absorbé par leurs recherches qui ont une marge de progression bien plus grande que celle physiciens qui stagnent en attendant que les vous leur construisiez un plus grand accélérateur de particules et qui ont beaucoup plus de temps pour discuter avec le public et vulgariser des concepts qui sont globalement les mêmes depuis les années 30.
-
----
-
 
 ## 3. La route vers la super intelligence
-
-Nous ne sommes pas encore à l'AGI (niveau 2) mais nous avons un plan pour y arriver:
-
-Après avoir tenté de copier l'évolution grâce au _computer learning_ nous arrivons à un palier et il n'est plus suffisant. Il nous manque une clé.
-<br>
-C'est comme si nous tentions de deviner ce que sera la technologie du prochain palier DPU. Comme si un gars du moyen age tentait de comprendre l'électronique. Il a les capacités de le faire mais est limité par le savoir de son temps. 
-
----
 Le plan: 
 <br>
 *Make this whole thing the computer's problem, not ours.*
@@ -220,38 +172,56 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 1. faire des recherches sur l'IA
 2. s'auto reprogrammer
 
-- Ça fait peur dit comme ça, j'ai malheureusement pas le temps d'approfondir le sujet comme il se doit |
-
 --- 
 
-## 4. Tout ceci pourrait arriver très vite
+« Avant, il fallait le faire à la main, expliquer à l’outil comment transformer une image afin de la classifier. Avec le deep learning, la machine apprend à le faire elle-même. Et elle le fait beaucoup mieux que les ingénieurs, c’est presque humiliant ». <br> Terence Tao (plus haut QI actuellement en vie)
 
-- toutes les plus grosses boites et gouvernements du monde sont sur le coup |
+---?image=https://cdn-images-1.medium.com/max/800/1*4M6wh5s4EyK4ceDnGiteXA.jpeg
 
-- l'inovation materielle et logicielle défille plus rapidement que jamais (nous l'avons vu dans la première partie) |
 
-- les croissances exponentielles sont... intenses et ce qui semble être un rythme d'escargot peut rapidement devenir ingérable. |
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence.jpg
+
+
+
+--->image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2-1024x836.png
+
+
+
 
 ---?image=http://waitbutwhy.com/wp-content/uploads/2015/01/gif
 
+
 ---
 
-## 5. Certitude concernant l'ASI (niveau 3)
 
-- La question n'est pas est-ce qu'on va y arriver. À ce sujet ils sont tous unanimes, la réponse est oui.
 
-- La première question est: Quand? les plus péssimistes répondent d'ici une centaine d'année. 
+---
 
-- Accrochez vous:|
+## 4. Questions, certitude, inquiétudes et conclusion
 
-- Ils sont une minorité à répondre une centaine d'année
-- Un sondage fait en 2015 (en référence de cette présentation) qui intérroge les 450 chercheurs les plus actifs sur le sujet révèle que la majorité voie l'AGI comme étant une réalité d'ici 2035. 
-- Les plus optimistes pensent que c'est imminent voir déja d'actualité. Cette possibilté aussi folle qu'elle puisse parraitre n'est écarté par aucun des 450 chercheurs interrogé.
+- La question n'est pas est-ce qu'on va y arriver.<br> 
+À ce sujet, en 2013, la réponse était déja presque catégorique.
+
+- Quand ? |
+
+<span class="fragment">
+jamais      : 2%
+après 2100  : 10%
+d’ici 2010  : 20%
+d’ici 2050  : 25%
+d’ici 2030  : 42%
+</span>
 
 ---
 
 La seconde question est:
 
 - est-ce qu'elle est bienvéillante... 
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/staircase1.png
+
+
+---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/staircase2.png
 
 ---
