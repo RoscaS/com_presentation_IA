@@ -234,8 +234,8 @@ La seconde question est:
 
 ---
 
-J'en arrive donc à la fin de ma présention.
-**Nous avons vu:** 
+
+**Qu'est-ce qu'on a vu aujourd'hui** 
 
 - ce qu'est la loi du retour accéléré qui nous explique comment mesurer le progrès.
 
