@@ -5,6 +5,12 @@ grands experts mondiaux._
 <br><br>
  
 ---
+Sommaire<br><br><br>
+1. Loi du retour accéléré<br>
+2. Qu’est ce qu’une Intelligence Artificielle ?<br>
+3. La route vers la super intelligence<br>
+4. Questions, certitude, inquiétudes et conclusion<br>
+---
 
 ## 1. Loi du retour accéléré:
 <br>
@@ -191,7 +197,7 @@ L'idée est de créer une ANI (premier niveau) qui excelle dans deux domaines:
 
 ---
 
-## 4. Questions, certitude, inquiétudes et conclusion
+## 4. Questions, certitudes, inquiétudes et conclusion
 
 - La question n'est pas est-ce qu'on va y arriver.<br> 
 
@@ -211,19 +217,22 @@ d’ici 2030  : 42%<br>
 
 La seconde question est:
 
-- est-ce qu'elle est bienvéillante... 
+- est-ce qu'elle est bienvéillante?
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/staircase1.png
 
 
 ---?image=http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/staircase2.png
 
-On sait ce qu'est un QI de 150
+- On sait ce qu'est un QI de 150|
 <br>
 <br>
 <br>
 <br>
 <br>
-Qu'est-ce qu'un QI de 10 000 ?
+- Qu'est-ce qu'un QI de 10 000 ?|
 
 ---
+
+J'en arrive donc à la fin de ma présention.
+Nous avons vu ce qu'est la loi du retour accéléré qui nous explique
