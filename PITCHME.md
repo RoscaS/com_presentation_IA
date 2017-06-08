@@ -76,9 +76,9 @@ Raymond Kurzweil:
 
 ---
 
-Ce **choque** est l'unité de mesure du progrès technologique et il sert à éstimer la<br>**loi du retour accéléré**.
+Ce **choc** est l'unité de mesure du progrès technologique et il sert à éstimer la<br>**loi du retour accéléré**.
 <br><br>
-- **DPU** (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choque que subirait une personne qui vient du passé soit suffisant pour le tuer.
+- **DPU** (Die Progress Unit): Quantité de temps nécéssaire à l'humanité pour accomplir suffisament de progrès pour que le choc que subirait une personne qui vient du passé soit suffisant pour le tuer.
 
 
 ---?image=00illustrations/chart1.png
